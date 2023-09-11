@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742326610707",
+    "project_id": "budget-ride-4a166",
+    "storage_bucket": "budget-ride-4a166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742326610707:android:7e18be8595ddbba3a448e6",
+        "android_client_info": {
+          "package_name": "com.finaluni.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742326610707-cjvi0t6q7dt4eij1jkpgp9o1bbocg8vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4yxdB3W3brLcPrbi9XWkuuITDOIOXqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742326610707-cjvi0t6q7dt4eij1jkpgp9o1bbocg8vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

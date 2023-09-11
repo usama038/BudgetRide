@@ -1,0 +1,43 @@
+name: fyp
+description: A new Flutter project.
+
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.3.0
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.4.2
+  cloud_firestore: ^4.5.2
+  modal_progress_hud_nsn: ^0.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/mainLogo.PNG
+    - assets/images/logo.PNG
+    - assets/images/getStarted.jpg
+    - assets/images/mainBackground.jpg
+    - assets/images/map_sample.jpeg
+
+
+  fonts:
+    - family: Orbitron
+      fonts:
+        - asset: assets/fonts/Orbitron-VariableFont_wght.ttf
